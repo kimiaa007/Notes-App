@@ -1,16 +1,14 @@
-# Notes App
+#Notes App
 Simple and beautiful notes application.
-## Features
+##Features
 - Rich text editing
 - Tags & folders
 - Search
 - Sync across devices
 - Dark mode
-
-## Tech Stack
+##Tech Stack
 - Flutter
 - SQLite
 - Provider
-
-## License
+##License
 MIT
