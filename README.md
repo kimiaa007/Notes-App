@@ -1,4 +1,3 @@
-#Notes App
 Simple and beautiful notes application.
 ##Features
 - Rich text editing
