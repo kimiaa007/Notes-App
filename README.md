@@ -1,5 +1,5 @@
 Simple and beautiful notes application.
-##Features
+Features
 - Rich text editing
 - Tags & folders
 - Search
