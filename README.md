@@ -5,7 +5,7 @@ Features
 - Search
 -   devices
 - Dark mode
-##Tech Stack
+##TechStack
 - Flutter
 - SQLite
 - Provider
