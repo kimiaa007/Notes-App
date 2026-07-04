@@ -4,7 +4,7 @@ Features
 - Tags & folders
 - Search
 -   devices
-- Dark mode
+-  mode
 ##TechStack
 - Flutter
 - SQLite
