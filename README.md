@@ -3,7 +3,7 @@ Features
 - Rich text editing
 - Tags & folders
 - Search
--   devices
+-   
 -  mode
 ##TechStack
 - Flutter
