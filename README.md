@@ -9,4 +9,3 @@ Features
 - SQLite
 - Provider
 ##License
-MIT
