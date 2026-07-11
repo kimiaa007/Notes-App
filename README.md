@@ -4,7 +4,6 @@ Features
 - Tags & folders
 - Search
 -  mode
-##TechStack
 - Flutter
 - SQLite
 - Provider
